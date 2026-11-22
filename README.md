@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 🌟 Hi there! I'm AnahatSrihari01 👋
+### 🌟 Hi there! I'm AnahatSrihari 👋
 
 ## 👋 About Me
 
