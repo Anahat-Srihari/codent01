@@ -3,7 +3,7 @@
 
 ## 👋 About Me
 
-I'm an **AI Automation Strategist** and **Frontend Developer** focused on building intelligent, scalable systems that replace manual processes with precision and performance. I specialize in leveraging **Large Language Models (LLMs)**, **AI agents**, and **workflow automation** to optimize lead generation, outreach, and CRM operations across scalable sales pipelines.
+I'm an **AI Automation Strategist** and **Frontend Designer** focused on building intelligent, scalable systems that replace manual processes with precision and performance. I specialize in leveraging **Large Language Models (LLMs)**, **AI agents**, and **workflow automation** to optimize lead generation, outreach, and CRM operations across scalable sales pipelines.
 
 With a strong interest in systems design and intelligent software, I build full-stack solutions that seamlessly integrate automation logic with clean, responsive frontends using **React**, **Next.js**, **Tailwind CSS**, and **TypeScript**. My goal is to design tech-driven systems that minimize friction, maximize output, and scale efficiently.
 
