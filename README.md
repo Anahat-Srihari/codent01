@@ -11,7 +11,7 @@ This GitHub is where I document my coding journey—sharing open-source projects
 
 ---
 
-### 🤖 What I'm Working On
+### 🤖 What I’m Working On
 
 - Building automation-first applications using LLMs and AI agents  
 - Creating AI-powered tools for lead generation, outreach, and sales workflows  
@@ -32,7 +32,7 @@ This GitHub is where I document my coding journey—sharing open-source projects
 
 ---
 
-## 🙌 Let's Connect!
+## 🙌 Let’s Connect!
 
 I'm always open to collaborating with developers, founders, and builders working at the edge of automation and tech-enabled growth.  
 📓 I share my progress, projects, and real-world learnings here on GitHub and through blogs.
